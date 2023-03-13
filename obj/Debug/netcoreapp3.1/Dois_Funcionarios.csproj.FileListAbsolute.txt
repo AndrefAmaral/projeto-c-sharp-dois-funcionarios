@@ -1,0 +1,13 @@
+C:\dev\Dois_Funcionarios\bin\Debug\netcoreapp3.1\Dois_Funcionarios.exe
+C:\dev\Dois_Funcionarios\bin\Debug\netcoreapp3.1\Dois_Funcionarios.deps.json
+C:\dev\Dois_Funcionarios\bin\Debug\netcoreapp3.1\Dois_Funcionarios.runtimeconfig.json
+C:\dev\Dois_Funcionarios\bin\Debug\netcoreapp3.1\Dois_Funcionarios.runtimeconfig.dev.json
+C:\dev\Dois_Funcionarios\bin\Debug\netcoreapp3.1\Dois_Funcionarios.dll
+C:\dev\Dois_Funcionarios\bin\Debug\netcoreapp3.1\Dois_Funcionarios.pdb
+C:\dev\Dois_Funcionarios\obj\Debug\netcoreapp3.1\Dois_Funcionarios.csprojAssemblyReference.cache
+C:\dev\Dois_Funcionarios\obj\Debug\netcoreapp3.1\Dois_Funcionarios.AssemblyInfoInputs.cache
+C:\dev\Dois_Funcionarios\obj\Debug\netcoreapp3.1\Dois_Funcionarios.AssemblyInfo.cs
+C:\dev\Dois_Funcionarios\obj\Debug\netcoreapp3.1\Dois_Funcionarios.csproj.CoreCompileInputs.cache
+C:\dev\Dois_Funcionarios\obj\Debug\netcoreapp3.1\Dois_Funcionarios.dll
+C:\dev\Dois_Funcionarios\obj\Debug\netcoreapp3.1\Dois_Funcionarios.pdb
+C:\dev\Dois_Funcionarios\obj\Debug\netcoreapp3.1\Dois_Funcionarios.genruntimeconfig.cache
